@@ -1,8 +1,6 @@
 <!-- TITLE -->
 # Formatando Links
 
-* ***Conteúdo:***
-
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
