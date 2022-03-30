@@ -12,4 +12,5 @@ a {
 a:hover {
     background-color: #ffff00;
     text-decoration: underline;
+    text-transform: uppercase;
 }
